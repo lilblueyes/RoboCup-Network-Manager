@@ -61,8 +61,8 @@ Les exécutables nécessitent des droits administratifs pour modifier les config
 2. Une fenêtre d'alerte s'ouvrira lors de l'exécution. Pour éviter cela, ajustez les réglages de l'UAC pour diminuer la fréquence d'alertes de Windows à "Ne jamais m'avertir".
    
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/76ae362a-8453-40a2-aed3-c9568ad7b6f9" alt="Exécuter en tant qu'administrateur" width="318">
-   <img src="https://github.com/user-attachments/assets/bcb72073-c471-42a0-930b-6a155e0289a1" alt="Réglages UAC" width="500">
+   <img src="https://github.com/user-attachments/assets/fe8521ef-b7d5-4013-a71b-90f2dec91464" alt="Exécuter en tant qu'administrateur" width="318">
+   <img src="https://github.com/user-attachments/assets/9628c73a-cd49-4b41-ab9f-7575b27ec012" alt="Réglages UAC" width="500">
 </div>
 
 ## Notes
