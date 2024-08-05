@@ -1,3 +1,6 @@
+<!-- Meta tags for SEO -->
+<meta name="description" content="Scripts pour automatiser la configuration réseau des robots du Robot Club Toulon pour la RoboCup.">
+<meta name="keywords" content="RoboCup, robotique, robotics, configuration réseau, network configuration, scripts, Robot Club Toulon">
 
 # Scripts de configuration réseau pour la RoboCup
 
